@@ -1,3 +1,5 @@
+![Tayeeb Muhtasim Abbasi](github-readme-banner-1280x320.png)
+
 Hi, I'm Tayeeb. I build WordPress sites for clients (WooCommerce stores, a Tutor LMS course site) and study CSE at UIU in Dhaka.
 
 On here you'll find my practice projects as I learn the MERN stack:
